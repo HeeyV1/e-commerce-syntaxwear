@@ -1,4 +1,5 @@
-/* Reset e Opiniões Leves */
-/* Tipografia Global */
-/* Variáveis e Tokens */
-/* Utilitários */
+body{
+    font-family: var(--font-principal);
+    background-color: 
+    color: #333333;
+}
