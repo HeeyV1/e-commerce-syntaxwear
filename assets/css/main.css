@@ -1,12 +1,5 @@
-/* main.css */
-@import './base/reset.css';
-@import './base/variables.css';
-@import './base/typography.css';
-@import './layout/header.css';
-@import './layout/footer.css';
-@import './layout/grid.css';
-@import './components/menu.css';
-@import './components/banner.css';
-@import './components/product-card.css';
-@import './components/button.css';
-@import './pages/home.css';
+body{
+    font-family: var(--font-principal);
+    color: #333333;
+    background-color: black;
+}
